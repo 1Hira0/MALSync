@@ -1,13 +1,4 @@
 {
-  "0.10.1": {
-    "iframe": [
-      "*://*.mixdrop.sx/e/*",
-      "*://*.mixdrop.ms/e/*",
-      "*://brucevotewithin.com/e/*",
-      "*://rebeccaneverbase.com/e/*",
-      "*://c4qhk0je.xyz/e/*"
-    ]
-  },
   "0.10.2": {
     "AsuraScans": [
       "*://*.asuracomic.net/*"
@@ -138,6 +129,16 @@
       "*://gorro-chfzoaas.fun/lol/*",
       "*://animenosub.upn.one/#*",
       "*://*.bunniescdn.online/*"
+    ]
+  },
+  "0.12.0": {
+    "Zoro": [
+      "*://hianime.cx/*",
+      "*://hianime.do/*"
+    ],
+    "iframe": [
+      "*://*.mixdrop.cv/e/*",
+      "*://jilliandescribecompany.com/e/*"
     ]
   }
 }

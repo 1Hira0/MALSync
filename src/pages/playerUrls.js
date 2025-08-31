@@ -245,6 +245,7 @@ module.exports = {
       '*://*.mixdrop.sx/e/*',
       '*://*.mixdrop.ms/e/*',
       '*://*.mixdrop.ps/e/*',
+      '*://*.mixdrop.cv/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -517,6 +518,7 @@ module.exports = {
       '*://sandratableother.com/e/*',
       '*://robertordercharacter.com/e/*',
       '*://maxfinishseveral.com/e/*',
+      '*://jilliandescribecompany.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
