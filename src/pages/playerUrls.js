@@ -252,6 +252,7 @@ module.exports = {
       '*://*.mixdrop.my/e/*',
       '*://*.mixdrop.sn/e/*',
       '*://*.mixdrop.cv/e/*',
+      '*://*.mdy48tn97.com/e/*',
       // auto-mixdrop-replace-dont-remove
     ],
   },
@@ -539,6 +540,7 @@ module.exports = {
       '*://jonathansociallike.com/e/*',
       '*://mariatheserepublican.com/e/*',
       '*://jilliandescribecompany.com/e/*',
+      '*://mikaylaarealike.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
